@@ -1,3 +1,3 @@
 # SliderVertical
 
-Vertical slider Scroll by buttons, scroll.
+Vertical slider change slides by buttons, scroll.
